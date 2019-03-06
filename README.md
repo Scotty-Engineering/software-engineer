@@ -64,4 +64,4 @@ Mainly our technology stack is build on top of Java (and JVM) Environment, Micro
 
 Passionate engineering team with great technology stack is waiting for new talents to collaborate. If you think you are the one we should work with, we can hire you.
 
-You can apply Scotty from [murathan@scotty.com.tr](mailto:murathan@scotty.com.tr) email address.
+You can apply Scotty from [talent@scotty.com.tr](mailto:talent@scotty.com.tr) email address.
