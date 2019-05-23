@@ -60,7 +60,7 @@ Mainly our technology stack is build on top of Java (and JVM) Environment, Micro
 * Consumer-driven contract testing
 * Google Maps API, geospatial development
 * Unit, integration and functional tests via JUnit5 and Spock frameworks
-* BDD via Cucumber
+* Functional tests via Cucumber
 
 Passionate engineering team with great technology stack is waiting for new talents to collaborate. If you think you are the one we should work with, we can hire you.
 
