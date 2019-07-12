@@ -31,7 +31,7 @@ Scotty has a very special model which has been proved successful for many times 
 
 Scrum is the framework we follow while building our platforms. Agility is in our DNA, therefore we have to know the basic of Agile mindset and Scrum values and how Scrum can improve our Agility.
 
-Microservices, Cloud and Kubernetes are the top three topic you will jump into. To build an awesome solution that customers love, we have to use cutting edge technologies and proved practices.
+Microservices, Cloud and Kubernetes are the top three topics you will jump into. To build an awesome solution that customers love, we have to use cutting edge technologies and proved practices.
 
 Scotty culture is special. You will feel the passion for making customers happy through your bones.
 
