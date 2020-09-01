@@ -1,5 +1,5 @@
 # Beam me up Scotty!
-Scotty is a platform that allows ordinary motorcyclists to take passengers (and food, packages and anything carryable) wherever they want to go at an affordable price. In a way, Scotty function as the middleman, bringing together citizens and motorcyclists who want to get from one place to another as quickly as possible on a motorcycle. With the Scotty app, you can go from one place to another for almost one-third the average taxi fare; plus, you get to avoid the notorious traffic jams of Istanbul. If you are trying to save time, you can easily get into this app and change your traveling habits with a few keystrokes.
+Scotty is a platform that allows ordinary motorcyclists to take passengers (packages and anything carryable) wherever they want to go at an affordable price. In a way, Scotty function as the middleman, bringing together citizens and motorcyclists who want to get from one place to another as quickly as possible on a motorcycle. With the Scotty app, you can go from one place to another for almost one-third the average taxi fare; plus, you get to avoid the notorious traffic jams of Istanbul. If you are trying to save time, you can easily get into this app and change your traveling habits with a few keystrokes.
 
 Scotty was setup by a group of Scottyzen in a sweet spring evening in order to get back the time stolen by traffic to our social lives. The Scotty dream, which first started in Ümraniye at 1 + 1 apartment building, has now become a chain of thousands of drivers and around a hundred employees.
 
@@ -46,10 +46,7 @@ Scotty culture is special. You will feel the passion for making customers happy 
 
 # Technology Stack
 
-Mainly our technology stack is build on top of Java (and JVM) Environment, Microservices and Kubernetes.
-
-* Microservices development and Java 11 / Groovy + Spring Boot + Spring Cloud
-* Gradle as the build tool, JPA and Hibernate as the ORM
+* Microservices development
 * Clean Architecture, Hexagonal Architecture / Ports & Adapters
 * Designing clean REST APIs
 * SQL/NoSQL technologies – such as Redis, MongoDB, PostgreSQL
@@ -58,9 +55,7 @@ Mainly our technology stack is build on top of Java (and JVM) Environment, Micro
 * Git, Gitlab + CI/CD, Trunk Based Development, Mono Repository
 * Designing code via TDD
 * Consumer-driven contract testing
-* Google Maps API, geospatial development
-* Unit, integration and functional tests via JUnit5 and Spock frameworks
-* Functional tests via Cucumber
+* Unit, integration and functional tests
 
 Passionate engineering team with great technology stack is waiting for new talents to collaborate. If you think you are the one we should work with, we can hire you.
 
